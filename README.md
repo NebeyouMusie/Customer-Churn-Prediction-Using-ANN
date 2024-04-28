@@ -66,7 +66,7 @@
  6. Or you can download the `customer-churn.csv` and `customer-churn.ipynb` file from the repository, upload those files to [Google Colab](https://colab.research.google.com/) then run all the cells in the `customer-churn.ipynb` Notebook
 
 ## Acknowledgments
- - I would like to thank [codebasics](https://https://youtube.com/@codebasics?si=S9xKOK9Hztsu2-Oi)
+ - I would like to thank [codebasics](https://youtube.com/@codebasics?si=S9xKOK9Hztsu2-Oi)
 
 ## Contact
  - LinkedIn: [Nebeyou Musie](https://www.linkedin.com/in/nebeyou-musie)
