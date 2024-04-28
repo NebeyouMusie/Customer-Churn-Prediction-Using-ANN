@@ -13,26 +13,26 @@
 ## Data Description
  - I have used the `customer-churn.csv` file for the project
  - The dataset contains information like:
-    1. gender            
-    2. SeniorCitize  
-    3. Partner           
-    4. Dependents        
-    5. tenure        
-    6. PhoneService      
-    7. MultipleLines     
-    8. InternetService   
-    9. OnlineSecurity    
-    10. OnlineBackup      
-    11. DeviceProtection  
-    12. TechSupport       
-    13. StreamingTV       
-    14. StreamingMovies   
-    15. Contract          
-    16. PaperlessBilling  
-    17. PaymentMethod     
-    18. MonthlyCharges 
-    19. TotalCharges 
-    20. Churn
+  1. gender            
+  2. SeniorCitize  
+  3. Partner           
+  4. Dependents        
+  5. tenure        
+  6. PhoneService      
+  7. MultipleLines     
+  8. InternetService   
+  9. OnlineSecurity    
+  10. OnlineBackup      
+  11. DeviceProtection  
+  12. TechSupport       
+  13. StreamingTV       
+  14. StreamingMovies   
+  15. Contract          
+  16. PaperlessBilling  
+  17. PaymentMethod     
+  18. MonthlyCharges 
+  19. TotalCharges 
+  20. Churn
 
 
 ## Libraries Used
