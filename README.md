@@ -44,7 +44,7 @@
  - TensorFlow
  - Keras
 
-## Evaluation Metrics
+## Evaluation Metrics for the Imbalanced Data
  - Accuracy: 0.77  (77%)
  - Precision for class '0': 0.81 (81%)
  - Precision for class '1': 0.58 (58%)
