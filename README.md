@@ -53,7 +53,7 @@
  - f1-score for class '0': 0.85 (85%)
  - f1-score for class '1': 0.50 (50%)
 
-## Solution used to solve the f1-score dure to the imbalanced dataset
+## Solution used to solve the metrics due to the imbalanced dataset
  - We'll try to solve the problem using 4 Methods
  1. Undersampling
  2. Oversampling
