@@ -43,6 +43,7 @@
  - Scikit-learn
  - TensorFlow
  - Keras
+ - imbalanced-learn
 
 ## Evaluation Metrics for the Imbalanced Data
  - Accuracy: 0.77  (77%)
@@ -68,7 +69,7 @@
  3. Create and Activate Virtual Environment (Recommended)
     - `python -m venv venv`
     - `source venv/bin/activate`
- 4. Install Libraries: `pip install numpy pandas matplotlib seaborn scikit-learn tensorflow`
+ 4. Install Libraries: `pip install numpy pandas matplotlib seaborn scikit-learn tensorflow imbalanced-learn`
  5. Open `customer-churn.ipynb` and run all cells
  6. Or you can download the `customer-churn.csv` and `customer-churn.ipynb` file from the repository, upload those files to [Google Colab](https://colab.research.google.com/) then run all the cells in the `customer-churn.ipynb` Notebook
 
